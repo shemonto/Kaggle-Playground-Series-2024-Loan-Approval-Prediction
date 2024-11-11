@@ -1,7 +1,7 @@
 # Kaggle-Playground-Series-2024-Loan-Approval-Prediction
 
 ## Objective
-- Developed a predictive model to determine the likelihood of an applicant’s loan approval, honing skills in classification modeling.
+- Developed a predictive model to determine the likelihood of an applicant’s loan approval, honing skills in classification modelling.
 
 ## Dataset
 - Engaged with a synthetic, tabular dataset modeled on real-world data to simulate a loan approval scenario.
@@ -25,7 +25,7 @@
   - Gradient Boosting
   - CatBoost
   - LightGBM
-- Identified the best-performing model based on stratified cross validation score.
+- Identified the best-performing model based on stratified cross-validation score.
 - Hyperparameter Tunning
 
 ### Step5: Model Evaluation 
@@ -33,18 +33,18 @@
   - F1-score
   - Precision
   - Recall
-- Confusion matrix for the best performing model  
-- ROC curve to see how well the classifier seperates the classes.  
-- Assessed the model's predictive capabilities accross different probability thresholds.
+- Confusion matrix for the best-performing model  
+- ROC curve to see how well the classifier separates the classes.  
+- Assessed the model's predictive capabilities across different probability thresholds.
 - Learning Curves to check overfitting
 
 ### Step6: Blending and Stacking models
-- Blended the best performing classifiers using weighted voting classifiers
--  stacked best performing classifiers with LogisticRegression as final estimator 
+- Blended the best-performing classifiers using weighted voting classifiers
+-  stacked best performing classifiers with LogisticRegression as the final estimator 
 
-### Step7: # Prediction on Kaggle Test Data
+### Step7: Prediction on Kaggle Test Data
 - Performed the preprocessing and feature engineering steps on test data
-- Generated predicted probalities on test set using catboost classifier 
+- Generated predicted probabilities on test set using catboost classifier 
 
 ## Achievements
 - Achieved a final AUC score of 0.96 on kaggle's test set, demonstrating a deep understanding of the machine learning workflow, from data preprocessing to model deployment.
