@@ -1,7 +1,5 @@
 # Kaggle-Playground-Series-2024-Loan-Approval-Prediction
 
-# Kaggle Playground Series 2024 – Loan Approval Prediction
-
 ## Objective
 - Developed a predictive model to determine the likelihood of an applicant’s loan approval, honing skills in classification modeling.
 
