@@ -5,6 +5,7 @@
 
 ## Dataset
 - Engaged with a synthetic, tabular dataset modeled on real-world data to simulate a loan approval scenario.
+- Link to the competition - https://www.kaggle.com/competitions/playground-series-s4e10
 
 ## Techniques
 
